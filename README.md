@@ -7,4 +7,4 @@ A very simple reddit bot that uses PRAW, python reddit API wrapper, and will sea
   * Loops
   * Conditional statements
 
-[Link to a video explanation by me]
+[Link to a short video explanation by me](https://www.youtube.com/channel/UCMrDtq9Mn467BDrrgwPwjpw/)
